@@ -1,0 +1,15 @@
+{
+  "appId": "com.respirator.app",
+  "appName": "RespiTrack",
+  "webDir": "dist",
+  "backgroundColor": "#0B2545",
+  "android": {
+    "backgroundColor": "#0B2545"
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#0B2545"
+    }
+  }
+}
